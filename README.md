@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bluewaveit.pt/images/logo-light.png" alt="BlueWave IT Logo" width="220">
+  <img src="https://bluewaveit.pt/images/logo_light.png" alt="BlueWave IT Logo" width="220">
 </p>
 
 <h1 align="center">BlueWave IT</h1>
